@@ -1,0 +1,15 @@
+{
+"phoneNo":908778,
+"name":"swami Vishwajit",
+"age":26,
+"gender":"M",
+"friendAndFamily":[13457,78906],
+"password":"Pass@123#",
+"address":"Sangola",
+"currentPlan":{
+	"planId":123,
+	"planName":"P_3711",
+	"nationalRate":12,
+	"localRate":34
+	}
+}
